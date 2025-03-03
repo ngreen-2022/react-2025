@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\react-frontend-01-starting-setup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UsersList\\UsersList.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\UsersList\\UsersList.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UserItem\\UserItem.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\UserItem\\UserItem.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UserItem\\UserItem.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\UserItem\\UserItem.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UsersList\\UsersList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\UsersList\\UsersList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserItem.css",
+              "DocumentMoniker": "C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UserItem\\UserItem.css",
+              "RelativeDocumentMoniker": "src\\components\\UserItem\\UserItem.css",
+              "ToolTip": "C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UserItem\\UserItem.css",
+              "RelativeToolTip": "src\\components\\UserItem\\UserItem.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-03T13:12:25.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserItem.js",
+              "DocumentMoniker": "C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UserItem\\UserItem.js",
+              "RelativeDocumentMoniker": "src\\components\\UserItem\\UserItem.js",
+              "ToolTip": "C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UserItem\\UserItem.js",
+              "RelativeToolTip": "src\\components\\UserItem\\UserItem.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-03T13:12:19.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersList.css",
+              "DocumentMoniker": "C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UsersList\\UsersList.css",
+              "RelativeDocumentMoniker": "src\\components\\UsersList\\UsersList.css",
+              "ToolTip": "C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UsersList\\UsersList.css*",
+              "RelativeToolTip": "src\\components\\UsersList\\UsersList.css*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-03T13:12:13.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersList.js",
+              "DocumentMoniker": "C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UsersList\\UsersList.js",
+              "RelativeDocumentMoniker": "src\\components\\UsersList\\UsersList.js",
+              "ToolTip": "C:\\repos\\react-frontend-01-starting-setup\\src\\components\\UsersList\\UsersList.js",
+              "RelativeToolTip": "src\\components\\UsersList\\UsersList.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-03T13:12:03.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
